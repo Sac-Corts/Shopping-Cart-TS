@@ -19,7 +19,7 @@ This project is a shopping cart for an online guitar store that provides users w
 - **Persistence:** LocalStorage for cart data
 
 ## 📸 Site
-**Site:** https://sacguitarla.netlify.app/ 
+**Site:** https://guitarla-shopping-cart-ts.netlify.app/
 
 ## 🚀 Getting Started
 
@@ -31,7 +31,7 @@ git clone https://github.com/yourusername/Shopping-Cart.git
 ```
 ### 2. Navigate to the project folder
 ```bash
-cd Shopping-Cart
+cd Shopping-Cart-TS
 ```
 ### 3. Install dependencies
 ```bash
